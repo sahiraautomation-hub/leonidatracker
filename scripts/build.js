@@ -946,11 +946,17 @@ function buildLegal() {
 <h2>Other questions</h2>
 <p>For questions about privacy, see the <a href="/privacy-policy/">Privacy Policy</a>. For questions about using the content, see the <a href="/terms/">Terms of Use</a>.</p>`);
 
-  simplePage('/privacy-policy/', 'Privacy Policy', 'How LeonidaTracker handles your data: progress stored only in your browser, advertising cookies from Google AdSense, and your choices.', 'Privacy Policy', `
+  simplePage('/privacy-policy/', 'Privacy Policy', 'How LeonidaTracker handles your data: progress stored only in your browser, Google Analytics, advertising cookies from Google AdSense, and your choices.', 'Privacy Policy', `
 ${updated}
 <p>This policy explains what information ${esc(site.name)} (${esc(site.url)}) handles and the choices you have.</p>
 <h2>Your tracker progress</h2>
 <p>Checklist ticks, counters, favourites and preferences are stored in your browser's local storage on your own device. They are never sent to our servers. We do not offer accounts and do not collect names, emails or passwords through the tools. Save codes you export are generated in your browser and stay with you. Clearing your browser's site data deletes this information.</p>
+<h2>Analytics</h2>
+<p>We use Google Analytics to understand how visitors use the site, such as which pages are read and which countries visits come from. Google Analytics uses cookies or similar technologies and collects information such as pages viewed, approximate location, device and browser type. We do not send names, email addresses or tracker progress to Google Analytics. For visitors in the European Economic Area, the United Kingdom and Switzerland, analytics and advertising storage is turned off by default, so only limited, cookieless measurement is used unless you give consent.</p>
+<ul>
+  <li>Learn how Google uses this data at <a href="https://policies.google.com/technologies/partner-sites" rel="noopener" target="_blank">policies.google.com/technologies/partner-sites</a>.</li>
+  <li>You can opt out of Google Analytics with the <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener" target="_blank">Google Analytics opt-out browser add-on</a>.</li>
+</ul>
 <h2>Advertising</h2>
 <p>This site may display ads served by Google AdSense. Google and its partners use cookies or similar technologies to serve ads based on your prior visits to this and other websites. Google's use of advertising cookies enables it and its partners to serve ads to you based on your visits to this site and/or other sites on the internet.</p>
 <ul>

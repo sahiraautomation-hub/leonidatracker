@@ -15,7 +15,7 @@ Sahir chose automatic publishing: a daily run may publish without asking him, as
 | `BACKLOG.md` | Topics not yet written. |
 | `scripts/build.js` | Generator. Validates data, builds `deploy/`, checks links. |
 | `scripts/publish.sh` | Builds and pushes `deploy/` to `live`. |
-| `site.config.json` | Domain, email, AdSense IDs. **Do not change `url`, `email` or `adsense`.** |
+| `site.config.json` | Domain, email, Analytics and AdSense IDs. **Do not change `url`, `email`, `analytics` or `adsense`.** |
 
 ## Daily run, in order
 

@@ -127,6 +127,18 @@ function page(opts) {
     ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${esc(site.adsense.client)}" crossorigin="anonymous"></script>`
     : '';
   const v = opts.assetVersion ? `?v=${opts.assetVersion}` : '';
+  const gaId = site.analytics && /^G-[A-Z0-9]+$/.test(site.analytics.measurementId || '') ? site.analytics.measurementId : '';
+  // Consent Mode v2: storage is denied by default for visitors in the EEA, UK and
+  // Switzerland, so GA sends only cookieless pings there until a consent tool
+  // (Google's AdSense consent message, once enabled) grants it. Granted elsewhere.
+  const CONSENT_REGIONS = ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IS','IE','IT','LV','LI','LT','LU','MT','NL','NO','PL','PT','RO','SK','SI','ES','SE','GB','CH'];
+  const analytics = gaId ? `<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500,region:${JSON.stringify(CONSENT_REGIONS)}});
+gtag('consent','default',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'});
+gtag('js',new Date());gtag('config','${gaId}');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=${gaId}"></script>` : '';
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -154,6 +166,7 @@ function page(opts) {
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="stylesheet" href="/assets/styles.css${v}">
+${analytics}
 ${adsense}
 ${ld}
 </head>

@@ -2,6 +2,11 @@
   "updates": [
     {
       "date": "2026-11-22",
+      "title": "Privacy policy: Google Analytics",
+      "text": "The site now uses Google Analytics to measure which pages are useful. The privacy policy explains what is collected, and visitors in the EEA, UK and Switzerland get cookieless measurement by default."
+    },
+    {
+      "date": "2026-11-22",
       "title": "Daily fact checks begin",
       "text": "From today, cheat codes and guide facts are re-checked every day. New codes are added only when two independent sources show the same sequence, and corrections are logged on this page."
     },
