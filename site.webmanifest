@@ -1,0 +1,15 @@
+{
+  "name": "LeonidaTracker",
+  "short_name": "LeonidaTracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07060d",
+  "theme_color": "#07060d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
