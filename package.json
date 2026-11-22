@@ -1,0 +1,12 @@
+{
+  "name": "leonida-tracker",
+  "version": "1.0.0",
+  "description": "Static GTA 6 fan utility site: 100% tracker, cheats database, calculators and pSEO guides. Zero dependencies.",
+  "private": true,
+  "license": "UNLICENSED",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "serve": "node scripts/serve.js"
+  }
+}

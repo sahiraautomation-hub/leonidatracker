@@ -1,0 +1,1162 @@
+{
+  "lastVerified": "2026-11-22",
+  "completionRequirements": [
+    {
+      "label": "Finish the main story",
+      "check": "story-complete",
+      "note": "100% tracking opens after the story."
+    },
+    {
+      "label": "Complete collectible card sets",
+      "counter": "col-card-sets",
+      "need": 15,
+      "note": "15 of the 18 sets."
+    },
+    {
+      "label": "Underwater Discoveries",
+      "counter": "col-underwater",
+      "need": 33,
+      "note": "Every one is required."
+    },
+    {
+      "label": "Magazines, books, comics and book swaps",
+      "counters": [
+        "col-reads",
+        "col-book-swaps"
+      ],
+      "need": 30,
+      "note": "30 of the 34 in total."
+    },
+    {
+      "label": "Cocaine Flamingos destroyed",
+      "counter": "col-cocaine-flamingos",
+      "need": 100,
+      "note": "100 of 125. Community-reported, not yet confirmed by Rockstar."
+    }
+  ],
+  "categories": [
+    {
+      "id": "missions",
+      "name": "Story Missions",
+      "type": "check",
+      "description": "All 22 Chapter 1 and 11 Chapter 2 story missions in order, Billy's optional missions, and the main-story milestone that unlocks cheats. Names are blurred until you tap them, to keep spoilers away."
+    },
+    {
+      "id": "collectibles",
+      "name": "Collectibles",
+      "type": "counter",
+      "description": "Every collectible type the Progress menu counts. Use the plus and minus buttons, or type your number straight in."
+    },
+    {
+      "id": "challenges",
+      "name": "Cheat Unlock Challenges",
+      "type": "counter",
+      "description": "Running totals for each challenge that unlocks a cheat. These counters feed the Cheat Unlock Planner."
+    },
+    {
+      "id": "world",
+      "name": "Regions, Venues and Garages",
+      "type": "check",
+      "description": "The six regions of Leonida, the three race venues tied to the Repair Vehicle cheat, and the eight garages you can buy for the Little Boxes trophy."
+    },
+    {
+      "id": "trophies",
+      "name": "Trophies and Achievements",
+      "type": "check",
+      "description": "The 27 trophies visible from the start. Hidden story trophies are left out to avoid spoilers. Remember that cheats disable trophies for the session."
+    }
+  ],
+  "items": [
+    {
+      "id": "story-complete",
+      "cat": "missions",
+      "type": "check",
+      "name": "Main story completed (all 91 missions)",
+      "chapter": "Milestone",
+      "note": "Unlocks the Cheats list and the four story cheats.",
+      "spoiler": false
+    },
+    {
+      "id": "m1-01",
+      "cat": "missions",
+      "type": "check",
+      "name": "Prologue",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "note": "You start as Lucia.",
+      "spoiler": false
+    },
+    {
+      "id": "m1-02",
+      "cat": "missions",
+      "type": "check",
+      "name": "Gone Fishing",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m1-03",
+      "cat": "missions",
+      "type": "check",
+      "name": "Gear Up",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "note": "Unlocks gun shops and loadout management.",
+      "spoiler": true
+    },
+    {
+      "id": "m1-04",
+      "cat": "missions",
+      "type": "check",
+      "name": "Just a Scratch",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "note": "Unlocks the Brian's Lockup drop-off.",
+      "spoiler": true
+    },
+    {
+      "id": "m1-05",
+      "cat": "missions",
+      "type": "check",
+      "name": "Lab Fees",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m1-06",
+      "cat": "missions",
+      "type": "check",
+      "name": "Unwanted Attention",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "note": "Unlocks Pay 'n' Spray shops and the cop scanner.",
+      "spoiler": true
+    },
+    {
+      "id": "m1-07",
+      "cat": "missions",
+      "type": "check",
+      "name": "Pipework",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m1-08",
+      "cat": "missions",
+      "type": "check",
+      "name": "Hey Arnold!",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m1-09",
+      "cat": "missions",
+      "type": "check",
+      "name": "Island Dreams",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true,
+      "note": "Opens Kenton's treasure dives."
+    },
+    {
+      "id": "m1-10",
+      "cat": "missions",
+      "type": "check",
+      "name": "Feng Shui",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m1-11",
+      "cat": "missions",
+      "type": "check",
+      "name": "Coming Home",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m1-12",
+      "cat": "missions",
+      "type": "check",
+      "name": "Buck Me",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "note": "Sets up your bank account.",
+      "spoiler": true
+    },
+    {
+      "id": "m1-13",
+      "cat": "missions",
+      "type": "check",
+      "name": "Clean Up After Donnie",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m1-14",
+      "cat": "missions",
+      "type": "check",
+      "name": "Down to Earth",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m1-15",
+      "cat": "missions",
+      "type": "check",
+      "name": "Clear Skies",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m1-16",
+      "cat": "missions",
+      "type": "check",
+      "name": "Day Release",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m1-17",
+      "cat": "missions",
+      "type": "check",
+      "name": "Swamped",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m1-18",
+      "cat": "missions",
+      "type": "check",
+      "name": "Don Gone",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m1-19",
+      "cat": "missions",
+      "type": "check",
+      "name": "Recalibration",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m1-20",
+      "cat": "missions",
+      "type": "check",
+      "name": "Tourist Trap",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "note": "Point of no return for Chapter 1. Finish Chapter 1-only content first.",
+      "spoiler": true
+    },
+    {
+      "id": "m1-21",
+      "cat": "missions",
+      "type": "check",
+      "name": "Home Sweet Home",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m1-22",
+      "cat": "missions",
+      "type": "check",
+      "name": "Discharge Time",
+      "chapter": "Chapter 1: Just Like Paradise",
+      "spoiler": true
+    },
+    {
+      "id": "m2-01",
+      "cat": "missions",
+      "type": "check",
+      "name": "What's in the Bag?",
+      "chapter": "Chapter 2: Paradise Lost",
+      "spoiler": true
+    },
+    {
+      "id": "m2-02",
+      "cat": "missions",
+      "type": "check",
+      "name": "Ambulance Chaser",
+      "chapter": "Chapter 2: Paradise Lost",
+      "spoiler": true
+    },
+    {
+      "id": "m2-03",
+      "cat": "missions",
+      "type": "check",
+      "name": "Just Moved In",
+      "chapter": "Chapter 2: Paradise Lost",
+      "spoiler": true
+    },
+    {
+      "id": "m2-04",
+      "cat": "missions",
+      "type": "check",
+      "name": "Girls' Trip",
+      "chapter": "Chapter 2: Paradise Lost",
+      "spoiler": true
+    },
+    {
+      "id": "m2-05",
+      "cat": "missions",
+      "type": "check",
+      "name": "Moses",
+      "chapter": "Chapter 2: Paradise Lost",
+      "spoiler": true,
+      "note": "Unlocks car registration with Moses and the Scooter Bros app."
+    },
+    {
+      "id": "m2-06",
+      "cat": "missions",
+      "type": "check",
+      "name": "Daily Driver",
+      "chapter": "Chapter 2: Paradise Lost",
+      "spoiler": true,
+      "note": "The Vice City Real Estate app (garages) arrives soon after."
+    },
+    {
+      "id": "m2-07",
+      "cat": "missions",
+      "type": "check",
+      "name": "Slam Dunk",
+      "chapter": "Chapter 2: Paradise Lost",
+      "spoiler": true
+    },
+    {
+      "id": "m2-08",
+      "cat": "missions",
+      "type": "check",
+      "name": "Breakfast Run",
+      "chapter": "Chapter 2: Paradise Lost",
+      "spoiler": true,
+      "note": "Unlocks switching between Jason and Lucia."
+    },
+    {
+      "id": "m2-09",
+      "cat": "missions",
+      "type": "check",
+      "name": "Coffee Break",
+      "chapter": "Chapter 2: Paradise Lost",
+      "spoiler": true
+    },
+    {
+      "id": "m2-10",
+      "cat": "missions",
+      "type": "check",
+      "name": "Afternoon Delight",
+      "chapter": "Chapter 2: Paradise Lost",
+      "spoiler": true
+    },
+    {
+      "id": "m2-11",
+      "cat": "missions",
+      "type": "check",
+      "name": "Checking Out",
+      "chapter": "Chapter 2: Paradise Lost",
+      "spoiler": true
+    },
+    {
+      "id": "ob-01",
+      "cat": "missions",
+      "type": "check",
+      "name": "Thrillbillies",
+      "chapter": "Optional: Billy (from Chapter 2)",
+      "spoiler": true,
+      "note": "Starts at the Thrillbilly Mud Club."
+    },
+    {
+      "id": "ob-02",
+      "cat": "missions",
+      "type": "check",
+      "name": "Twist Wrist, Smash, Grab",
+      "chapter": "Optional: Billy (from Chapter 2)",
+      "spoiler": true
+    },
+    {
+      "id": "ob-03",
+      "cat": "missions",
+      "type": "check",
+      "name": "Mall Rats",
+      "chapter": "Optional: Billy (from Chapter 2)",
+      "spoiler": true
+    },
+    {
+      "id": "ob-04",
+      "cat": "missions",
+      "type": "check",
+      "name": "The Impaler",
+      "chapter": "Optional: Billy (from Chapter 2)",
+      "spoiler": true
+    },
+    {
+      "id": "ob-05",
+      "cat": "missions",
+      "type": "check",
+      "name": "Hometown Heroes",
+      "chapter": "Optional: Billy (from Chapter 2)",
+      "spoiler": true,
+      "note": "Finishing Billy's strand earns The Lone Rider trophy."
+    },
+    {
+      "id": "col-cards",
+      "cat": "collectibles",
+      "type": "counter",
+      "target": 480,
+      "name": "Collectible Cards",
+      "note": "480 cards across 18 sets. Sell spares at pawn shops."
+    },
+    {
+      "id": "col-card-sets",
+      "cat": "collectibles",
+      "type": "counter",
+      "target": 18,
+      "name": "Card sets completed",
+      "note": "15 complete sets count for 100%. Three sets earns the Don't Touch My Deck trophy."
+    },
+    {
+      "id": "col-vc-flamingos-cards",
+      "cat": "collectibles",
+      "type": "counter",
+      "target": 24,
+      "name": "Vice City Flamingos cards",
+      "note": "Completing this 24-card set unlocks the Bubblegum filter cheat."
+    },
+    {
+      "id": "col-cocaine-flamingos",
+      "cat": "collectibles",
+      "type": "counter",
+      "target": 125,
+      "name": "Cocaine Flamingos destroyed",
+      "note": "Shoot them to destroy. 50 unlocks the Inflatable Flamingo cheat."
+    },
+    {
+      "id": "col-waink-landmarks",
+      "cat": "collectibles",
+      "type": "counter",
+      "target": 31,
+      "name": "WAiNK Landmarks scanned",
+      "note": "Scan with the WAiNK phone app."
+    },
+    {
+      "id": "col-waink-curiosities",
+      "cat": "collectibles",
+      "type": "counter",
+      "target": 35,
+      "name": "WAiNK Curiosities scanned",
+      "note": "Second WAiNK category in Collections."
+    },
+    {
+      "id": "col-waink-sculptures",
+      "cat": "collectibles",
+      "type": "counter",
+      "target": 23,
+      "name": "WAiNK Sculptures scanned",
+      "note": "Third WAiNK category in Collections."
+    },
+    {
+      "id": "col-underwater",
+      "cat": "collectibles",
+      "type": "counter",
+      "target": 33,
+      "name": "Underwater Discoveries",
+      "note": "All 33 are needed for 100%."
+    },
+    {
+      "id": "col-reads",
+      "cat": "collectibles",
+      "type": "counter",
+      "target": 27,
+      "name": "Magazines, Books and Comics",
+      "note": "27 to find, plus 7 book swaps."
+    },
+    {
+      "id": "col-book-swaps",
+      "cat": "collectibles",
+      "type": "counter",
+      "target": 7,
+      "name": "Book Swaps",
+      "note": "Together with reads, 30 of 34 count for 100%."
+    },
+    {
+      "id": "col-meditation-spots",
+      "cat": "collectibles",
+      "type": "counter",
+      "target": 18,
+      "name": "Meditation spots found",
+      "note": "Repeat meditations here toward the Fast Forward cheat."
+    },
+    {
+      "id": "col-girlypop",
+      "cat": "collectibles",
+      "type": "counter",
+      "target": 16,
+      "name": "Girlypop Vehicles discovered",
+      "note": "All 16 unlock the Neon Jungle filter cheat."
+    },
+    {
+      "id": "col-watches",
+      "cat": "collectibles",
+      "type": "counter",
+      "target": 20,
+      "name": "Collectible watches",
+      "note": "10 unlocks Move Time Forward, 20 unlocks Pause Time of Day."
+    },
+    {
+      "id": "ch-workouts",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 100,
+      "name": "Workouts completed",
+      "note": "Body Armor cheat."
+    },
+    {
+      "id": "ch-range-bronze",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 25,
+      "name": "Shooting range medals, bronze or better",
+      "note": "Max Ammo cheat."
+    },
+    {
+      "id": "ch-range-silver",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 25,
+      "name": "Shooting range medals, silver or better",
+      "note": "Infinite Ammo cheat."
+    },
+    {
+      "id": "ch-range-gold",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 25,
+      "name": "Shooting range gold medals",
+      "note": "No Reload cheat."
+    },
+    {
+      "id": "ch-wanted-escapes",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 50,
+      "name": "Three-star wanted levels lost",
+      "note": "25 for Raise Heat Level, 50 for Raise Wanted Level."
+    },
+    {
+      "id": "ch-freefalls",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 20,
+      "name": "40-foot falls survived",
+      "note": "No Fall Damage cheat."
+    },
+    {
+      "id": "ch-skydives",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 50,
+      "name": "Skydives or BASE jumps (300 ft+)",
+      "note": "Parachute cheat."
+    },
+    {
+      "id": "ch-race-wins",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 10,
+      "name": "Race wins at the three venues",
+      "note": "Repair Vehicle cheat."
+    },
+    {
+      "id": "ch-stunt-jumps",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 50,
+      "name": "Stunt jumps completed",
+      "note": "Unlimited Nitrous and Fuel cheat."
+    },
+    {
+      "id": "ch-alcohol-spent",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 2500,
+      "unit": "$",
+      "name": "Dollars spent on alcohol",
+      "note": "Drunk cheat."
+    },
+    {
+      "id": "ch-grenades",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 100,
+      "name": "Grenades thrown",
+      "note": "All Explosive Weapons cheat."
+    },
+    {
+      "id": "ch-molotovs",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 100,
+      "name": "Molotov cocktails thrown",
+      "note": "Exploding Bottles cheat."
+    },
+    {
+      "id": "ch-fire-kills",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 100,
+      "name": "Enemies burned with fire",
+      "note": "Incendiary Ammo cheat."
+    },
+    {
+      "id": "ch-explosive-hits",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 100,
+      "name": "Enemies hit with explosive damage",
+      "note": "20 for Exploding Balls, 100 for the Explosive Shotgun."
+    },
+    {
+      "id": "ch-vehicle-kills",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 25,
+      "name": "Enemies killed with a vehicle",
+      "note": "Vehicle Force cheat."
+    },
+    {
+      "id": "ch-vehicles-destroyed",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 100,
+      "name": "Vehicles blown up",
+      "note": "Hauners H-AT cheat."
+    },
+    {
+      "id": "ch-police-vehicles",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 100,
+      "name": "Police vehicles stolen",
+      "note": "Hellscape filter cheat."
+    },
+    {
+      "id": "ch-six-star-minutes",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 6,
+      "name": "Minutes survived at six stars (best run)",
+      "note": "Migraine filter cheat. Enter your longest single run."
+    },
+    {
+      "id": "ch-partner-robberies",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 50,
+      "name": "Stores robbed with your partner",
+      "note": "Faded Glory filter cheat."
+    },
+    {
+      "id": "ch-partner-gang-ops",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 25,
+      "name": "Gang operations cleared with your partner",
+      "note": "Pinhole filter cheat."
+    },
+    {
+      "id": "ch-partner-activities",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 50,
+      "name": "Activities completed with your partner",
+      "note": "Videotape filter cheat."
+    },
+    {
+      "id": "ch-partner-hours",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 8,
+      "name": "Hours spent with your partner",
+      "note": "Dollhouse filter cheat."
+    },
+    {
+      "id": "ch-holding-hands-hours",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 4,
+      "name": "Hours holding hands with your partner",
+      "note": "Golden Hour filter cheat."
+    },
+    {
+      "id": "ch-meditations",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 50,
+      "name": "Meditations completed",
+      "note": "Fast Forward filter cheat."
+    },
+    {
+      "id": "ch-fish",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 100,
+      "name": "Fish caught",
+      "note": "Fisheye filter cheat."
+    },
+    {
+      "id": "ch-vehicle-sales",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 500000,
+      "unit": "$",
+      "name": "Dollars earned selling vehicles",
+      "note": "Dark Mirror filter cheat."
+    },
+    {
+      "id": "ch-collectible-sales",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 250000,
+      "unit": "$",
+      "name": "Dollars earned selling collectibles",
+      "note": "Pixel Art filter cheat."
+    },
+    {
+      "id": "ch-survival-5",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 5,
+      "name": "Survival challenges completed",
+      "note": "Five unlocks Airboat 09. All of them unlock the Rhino Tank."
+    },
+    {
+      "id": "ch-combat-5",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 5,
+      "name": "Combat challenges completed",
+      "note": "Five unlocks the Speeder 700 GT. All of them unlock the Banshee."
+    },
+    {
+      "id": "ch-fitness-5",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 5,
+      "name": "Fitness challenges completed",
+      "note": "Five unlocks the Tuff BMX. All of them unlock the '65 Dominator."
+    },
+    {
+      "id": "ch-shopping-5",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 5,
+      "name": "Shopping challenges completed",
+      "note": "Five unlocks the Boomazoom. All of them unlock the Thrax."
+    },
+    {
+      "id": "ch-exploration-5",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 5,
+      "name": "Exploration challenges completed",
+      "note": "Five unlocks the Sea Sparrow. All of them unlock the Carbon RS."
+    },
+    {
+      "id": "ch-vehicle-5",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 5,
+      "name": "Vehicle challenges completed",
+      "note": "Five unlocks the Lapwing Mallard. All of them unlock the Emerus."
+    },
+    {
+      "id": "ch-sports-5",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 5,
+      "name": "Sports challenges completed",
+      "note": "Five unlocks the Stanier taxi. All of them unlock the Golfer."
+    },
+    {
+      "id": "ch-criminal-5",
+      "cat": "challenges",
+      "type": "counter",
+      "target": 5,
+      "name": "Criminal challenges completed",
+      "note": "Five unlocks the Sanchez. All of them unlock the Zombie Bobber."
+    },
+    {
+      "id": "r-vice-city",
+      "cat": "world",
+      "type": "check",
+      "name": "Vice City",
+      "chapter": "Region",
+      "note": "Leonida's biggest city and the heart of the map."
+    },
+    {
+      "id": "r-leonida-keys",
+      "cat": "world",
+      "type": "check",
+      "name": "Leonida Keys",
+      "chapter": "Region",
+      "note": "The island chain where the story opens."
+    },
+    {
+      "id": "r-grassrivers",
+      "cat": "world",
+      "type": "check",
+      "name": "Grassrivers",
+      "chapter": "Region",
+      "note": "Wetlands best crossed by boat or airboat."
+    },
+    {
+      "id": "r-port-gellhorn",
+      "cat": "world",
+      "type": "check",
+      "name": "Port Gellhorn",
+      "chapter": "Region",
+      "note": "Coastal port region."
+    },
+    {
+      "id": "r-ambrosia",
+      "cat": "world",
+      "type": "check",
+      "name": "Ambrosia",
+      "chapter": "Region",
+      "note": "Inland industrial region."
+    },
+    {
+      "id": "r-mount-kalaga",
+      "cat": "world",
+      "type": "check",
+      "name": "Mount Kalaga National Park",
+      "chapter": "Region",
+      "note": "Wilderness and trails in the north."
+    },
+    {
+      "id": "v-gellhorn-raceway",
+      "cat": "world",
+      "type": "check",
+      "name": "Gellhorn Raceway",
+      "chapter": "Race venue",
+      "note": "One of three venues for the Repair Vehicle cheat."
+    },
+    {
+      "id": "v-thrillbilly",
+      "cat": "world",
+      "type": "check",
+      "name": "Thrillbilly Mud Club",
+      "chapter": "Race venue",
+      "note": "One of three venues for the Repair Vehicle cheat."
+    },
+    {
+      "id": "v-boone-speedway",
+      "cat": "world",
+      "type": "check",
+      "name": "Boone Speedway",
+      "chapter": "Race venue",
+      "note": "One of three venues for the Repair Vehicle cheat."
+    },
+    {
+      "id": "g-01",
+      "cat": "world",
+      "type": "check",
+      "name": "Mitchell Auto Center garage",
+      "chapter": "Garage",
+      "note": "Reported price $4,000. Vice City Real Estate app."
+    },
+    {
+      "id": "g-02",
+      "cat": "world",
+      "type": "check",
+      "name": "Persistence Road garage",
+      "chapter": "Garage",
+      "note": "Reported price $7,600. Vice City Real Estate app."
+    },
+    {
+      "id": "g-03",
+      "cat": "world",
+      "type": "check",
+      "name": "7th Avenue garage",
+      "chapter": "Garage",
+      "note": "Reported price $12,000. Vice City Real Estate app."
+    },
+    {
+      "id": "g-04",
+      "cat": "world",
+      "type": "check",
+      "name": "Store n' Bolt garage",
+      "chapter": "Garage",
+      "note": "Reported price $16,800. Vice City Real Estate app."
+    },
+    {
+      "id": "g-05",
+      "cat": "world",
+      "type": "check",
+      "name": "Wyatt Motors garage",
+      "chapter": "Garage",
+      "note": "Reported price $21,600. Vice City Real Estate app."
+    },
+    {
+      "id": "g-06",
+      "cat": "world",
+      "type": "check",
+      "name": "Vela Rota Drive garage",
+      "chapter": "Garage",
+      "note": "Reported price $24,000. Vice City Real Estate app."
+    },
+    {
+      "id": "g-07",
+      "cat": "world",
+      "type": "check",
+      "name": "Bonita Court garage",
+      "chapter": "Garage",
+      "note": "Reported price $34,000. Vice City Real Estate app."
+    },
+    {
+      "id": "g-08",
+      "cat": "world",
+      "type": "check",
+      "name": "Atlantic Court garage",
+      "chapter": "Garage",
+      "note": "Reported price $40,000. Vice City Real Estate app."
+    },
+    {
+      "id": "t-01",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Vice Got a Price!",
+      "chapter": "Platinum",
+      "note": "Earn every other trophy.",
+      "spoiler": false
+    },
+    {
+      "id": "t-02",
+      "cat": "trophies",
+      "type": "check",
+      "name": "A Long Road",
+      "chapter": "Gold",
+      "note": "Reach 100% completion.",
+      "spoiler": false
+    },
+    {
+      "id": "t-03",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Cunning Stunts",
+      "chapter": "Silver",
+      "note": "Complete 250 stunts.",
+      "spoiler": false
+    },
+    {
+      "id": "t-04",
+      "cat": "trophies",
+      "type": "check",
+      "name": "The Shootist",
+      "chapter": "Silver",
+      "note": "Gold medal in every Shooting Range challenge.",
+      "spoiler": false
+    },
+    {
+      "id": "t-05",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Maximum Withdrawal",
+      "chapter": "Silver",
+      "note": "Rob 5 bank vaults and escape.",
+      "spoiler": false
+    },
+    {
+      "id": "t-06",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Strangers & Freaks",
+      "chapter": "Silver",
+      "note": "Complete 8 stranger mission strands.",
+      "spoiler": false
+    },
+    {
+      "id": "t-07",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Don't Touch My Deck",
+      "chapter": "Silver",
+      "note": "Complete 3 Collectible Card sets.",
+      "spoiler": false
+    },
+    {
+      "id": "t-08",
+      "cat": "trophies",
+      "type": "check",
+      "name": "You WAiNKer!",
+      "chapter": "Silver",
+      "note": "Use WAiNK at 100 locations.",
+      "spoiler": false
+    },
+    {
+      "id": "t-09",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Master of None",
+      "chapter": "Bronze",
+      "note": "Try each type of activity once.",
+      "spoiler": false
+    },
+    {
+      "id": "t-10",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Earn Cash, Not Kudos",
+      "chapter": "Bronze",
+      "note": "Win 20 different races.",
+      "spoiler": false
+    },
+    {
+      "id": "t-11",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Hot Together",
+      "chapter": "Bronze",
+      "note": "Lose a 4-star wanted level with your partner.",
+      "spoiler": false
+    },
+    {
+      "id": "t-12",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Retail Therapy",
+      "chapter": "Bronze",
+      "note": "Rob 3 shops in a row with your partner while staying wanted.",
+      "spoiler": false
+    },
+    {
+      "id": "t-13",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Whip It Good",
+      "chapter": "Bronze",
+      "note": "Discover 100 vehicles.",
+      "spoiler": false
+    },
+    {
+      "id": "t-14",
+      "cat": "trophies",
+      "type": "check",
+      "name": "The Goodtime State",
+      "chapter": "Bronze",
+      "note": "Explore all of Leonida.",
+      "spoiler": false
+    },
+    {
+      "id": "t-15",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Pest Control",
+      "chapter": "Bronze",
+      "note": "Rob one Illegal Operation from each gang.",
+      "spoiler": false
+    },
+    {
+      "id": "t-16",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Dime on the Dollar",
+      "chapter": "Bronze",
+      "note": "Launder $250,000 in marked bills.",
+      "spoiler": false
+    },
+    {
+      "id": "t-17",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Top Fun",
+      "chapter": "Bronze",
+      "note": "Win a drone race at every location.",
+      "spoiler": false
+    },
+    {
+      "id": "t-18",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Treat Yo Self",
+      "chapter": "Bronze",
+      "note": "Spend $100,000 across all shops.",
+      "spoiler": false
+    },
+    {
+      "id": "t-19",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Little Boxes",
+      "chapter": "Bronze",
+      "note": "Buy all garage properties.",
+      "spoiler": false
+    },
+    {
+      "id": "t-20",
+      "cat": "trophies",
+      "type": "check",
+      "name": "On the Spot",
+      "chapter": "Bronze",
+      "note": "Register 10 vehicles to Scooter Bros.",
+      "spoiler": false
+    },
+    {
+      "id": "t-21",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Baited My Tackle",
+      "chapter": "Bronze",
+      "note": "Beat Cal in a fishing challenge.",
+      "spoiler": false
+    },
+    {
+      "id": "t-22",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Stick Fiddler",
+      "chapter": "Bronze",
+      "note": "Complete an arcade game.",
+      "spoiler": false
+    },
+    {
+      "id": "t-23",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Positive Mental Attitude",
+      "chapter": "Bronze",
+      "note": "Meditate at every spot. One spot may be Chapter 1 only.",
+      "spoiler": false
+    },
+    {
+      "id": "t-24",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Gunslinger",
+      "chapter": "Bronze",
+      "note": "Take down 5 enemies in one use of Focus.",
+      "spoiler": false
+    },
+    {
+      "id": "t-25",
+      "cat": "trophies",
+      "type": "check",
+      "name": "Sneakthief",
+      "chapter": "Bronze",
+      "note": "Rob a jewelry store undetected.",
+      "spoiler": false
+    },
+    {
+      "id": "t-26",
+      "cat": "trophies",
+      "type": "check",
+      "name": "A Classic Blitz Play",
+      "chapter": "Bronze",
+      "note": "Rob an armored truck and escape.",
+      "spoiler": false
+    },
+    {
+      "id": "t-27",
+      "cat": "trophies",
+      "type": "check",
+      "name": "One Last Thing",
+      "chapter": "Bronze",
+      "note": "Complete 50 challenges.",
+      "spoiler": false
+    }
+  ]
+}

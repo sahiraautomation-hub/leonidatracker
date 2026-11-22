@@ -1,0 +1,30 @@
+{
+  "name": "LeonidaTracker",
+  "url": "https://theleonidatracker.com",
+  "tagline": "A free, unofficial GTA 6 companion: a 100% tracker that saves in your browser, a searchable cheats database, completion calculators and original guides.",
+  "email": "contact@theleonidatracker.com",
+  "locale": "en_US",
+  "published": "2026-11-21",
+  "lastUpdated": "2026-11-22",
+  "adsense": {
+    "client": "",
+    "slots": {
+      "top": "",
+      "inContent": "",
+      "sidebar": "",
+      "bottom": ""
+    }
+  },
+  "footerGuides": [
+    "how-to-enter-cheats-gta-6",
+    "gta-6-all-cheats-list",
+    "gta-6-make-money-fast",
+    "gta-6-fastest-cars",
+    "gta-6-best-weapons",
+    "gta-6-trophy-list"
+  ],
+  "author": {
+    "name": "LeonidaTracker Editorial",
+    "type": "Organization"
+  }
+}
