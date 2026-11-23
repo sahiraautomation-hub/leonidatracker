@@ -98,7 +98,7 @@ Short cheat and counter lists also generate per-item notes. These are built from
 
 ## Data notes (verified 2026-11-22)
 
-- **Cheats:** all 61 cheats with their unlock challenges. Only the 18 D-pad codes that matched across several independent launch-week sources are filled in. The rest show "Code not found yet".
+- **Cheats:** all 61 cheats with their unlock challenges. Only the 21 D-pad codes that matched across several independent sources are filled in (cheats re-verified 2026-11-23). The rest show "Code not found yet".
 - **Missions:** Chapter 1 (22 main missions) and Chapter 2 (11) are listed, plus Billy's five optional missions. Later mission names are heavy spoilers, so the Tracker uses one milestone for finishing the story.
 - **Chapter 3 name:** not displayed, because it contains crude language that could trip AdSense content review. The matching trophy is left out for the same reason.
 - **Payouts and prices:** money figures in the guides (car sales, jewelry stores, vaults, garages, guns) come from launch-week guides and are worded as "reported". Update them if Rockstar patches values.

@@ -2,7 +2,7 @@
 
 Topics not yet on the site. Pick from the top when nothing more urgent (a newly confirmed cheat code or a needed correction) is waiting. Remove a line once its guide is published. Add new ideas at the bottom.
 
-## Cheat codes still unconfirmed (43)
+## Cheat codes still unconfirmed (40)
 Check every run. A code is added only when two or more independent sources show the same sequence. Set `"code"` in `data/cheats.json`; the cheat page is generated automatically.
 
 ## Guides to write (only when facts are confirmed by 2+ sources)
@@ -27,7 +27,6 @@ Check every run. A code is added only when two or more independent sources show 
 - GTA 6 Jason vs Lucia: differences
 - GTA 6 characters and cast (spoiler-light)
 - GTA 6 best settings (PS5 / Xbox)
-- GTA 6 editions and pre-order bonuses
 - GTA 6 hidden trophies explained (spoiler-tagged)
 - GTA 6 arcade games (Stick Fiddler trophy)
 - GTA 6 clothing and outfits
