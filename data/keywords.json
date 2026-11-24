@@ -4587,6 +4587,117 @@
         }
       ],
       "tool": "guides"
+    },
+    {
+      "slug": "gta-6-patch-notes",
+      "category": "Basics",
+      "keyword": "gta 6 patch notes",
+      "title": "GTA 6 Patch Notes: Every Update and What It Fixed",
+      "description": "Every GTA 6 update in one place. Update 01.002.002 arrived on 23 November 2026 with seven fixes, including autosave, weather and wanted level bugs.",
+      "h1": "GTA 6 Patch Notes and Update Tracker",
+      "intro": "Rockstar released the first GTA 6 update since launch on 23 November 2026. This page lists each update, what Rockstar says it changed and what the notes leave out. It was last checked on 24 November 2026 and will be updated when a new patch ships.",
+      "sections": [
+        {
+          "h2": "Latest update: 01.002.002",
+          "p": [
+            "The update came out on **23 November 2026**, four days after launch, for both PlayStation 5 and Xbox Series X|S. On PS5 it appears as version **01.002.002**. On Xbox the same update is reported as version 1.0.2.2.",
+            "The download is small. It is reported at about 604 MB on PS5 and about 1.6 GB on Xbox. Those sizes come from update trackers and press coverage, not from Rockstar, so treat them as reported figures."
+          ]
+        },
+        {
+          "h2": "What update 01.002.002 fixed",
+          "p": [
+            "Rockstar published the notes on its support site later on release day. The first news reports went out before that, which is why some early articles say there were no notes. The list has seven fixes under one general heading. Rockstar gives no further detail on any of them. It does not say which crashes were fixed, for example.",
+            "The autosave fix is the one most players will care about. Coverage of the patch reported that some players had lost progress to the bug. Autosave is still no replacement for a manual save, so keep the routine from the [saving guide](/guides/gta-6-how-to-save/).",
+            "If you were stuck with a wanted level that would not clear, that bug is on the list. The normal ways to lose the police are in the [wanted level and Heat guide](/guides/gta-6-wanted-level-heat/). The deadlift bar is part of weight training, which is how you raise Strength. The [stats guide](/guides/gta-6-strength-cardio-focus/) explains how that works."
+          ],
+          "list": [
+            "Several problems that made the game crash.",
+            "Weather that stayed the same for long stretches.",
+            "Autosave not saving correctly.",
+            "Phone calls that failed to start, including calls that move the story on or open up missions.",
+            "Players being unable to lose a wanted level.",
+            "The deadlift bar at the gym not working.",
+            "Partners not handing over bags, which stopped you from selling them to a fence."
+          ]
+        },
+        {
+          "h2": "What the notes do not mention",
+          "p": [
+            "None of the seven fixes mentions cheats, prices or payouts. The cheat codes on this site were re-checked on 24 November 2026, after the patch, and the 21 known codes still match what other outlets list. See the [full cheats list](/guides/gta-6-all-cheats-list/) for the current state.",
+            "The notes are short, and they name only the seven items above. If a problem you have is not on the list, assume it is still open until Rockstar says otherwise. We will not list a fix here unless the published notes include it."
+          ]
+        },
+        {
+          "h2": "How the rollout worked",
+          "p": [
+            "On PS5 the update did not reach everyone at once. Trackers reported three stages: about a third of players at first, about two thirds three hours later, and everyone after about six hours. Rockstar did not announce the staging itself. Sources differ on whether the stages went by region or by share of players.",
+            "No staging was reported for Xbox."
+          ]
+        },
+        {
+          "h2": "How to get the update",
+          "p": [
+            "Both consoles normally download game updates on their own when they are online. If yours has not, you can ask for it by hand."
+          ],
+          "steps": [
+            "On PS5, highlight GTA 6 on the home screen, press the Options button and choose Check for Update.",
+            "On Xbox Series X|S, open My games & apps, choose Manage, then Updates."
+          ],
+          "after": "Game updates do not affect your [Tracker](/tracker/) progress, which is stored in your browser."
+        },
+        {
+          "h2": "Earlier updates",
+          "p": [
+            "Two builds were reported before launch, during the pre-load period: 01.002.000 on 13 November 2026 and 01.002.001 on 16 November 2026. Rockstar published no notes for either, so there is nothing confirmed to list for them. The [release date guide](/guides/gta-6-release-date-platforms/) covers the pre-load dates."
+          ]
+        }
+      ],
+      "data": {
+        "type": "table",
+        "caption": "GTA 6 updates so far",
+        "headers": [
+          "Version",
+          "Date",
+          "What changed"
+        ],
+        "rows": [
+          [
+            "01.002.002 (reported as 1.0.2.2 on Xbox)",
+            "23 November 2026",
+            "Seven fixes listed by Rockstar: crashes, weather, autosave, phone calls, wanted level, the gym deadlift bar and partner bags"
+          ],
+          [
+            "01.002.001",
+            "Reported on 16 November 2026",
+            "Pre-launch build. No notes published"
+          ],
+          [
+            "01.002.000",
+            "Reported on 13 November 2026",
+            "Pre-launch build. No notes published"
+          ]
+        ]
+      },
+      "faqs": [
+        {
+          "q": "What is the latest GTA 6 update?",
+          "a": "Update 01.002.002, released on 23 November 2026 for PS5 and Xbox Series X|S. It is the first update since launch."
+        },
+        {
+          "q": "How big is GTA 6 update 01.002.002?",
+          "a": "It is reported at about 604 MB on PS5 and about 1.6 GB on Xbox Series X|S. Rockstar has not confirmed the sizes."
+        },
+        {
+          "q": "Did the update fix autosave?",
+          "a": "Yes, according to the notes. They list a fix for autosave not saving correctly. Keep making manual saves as well."
+        },
+        {
+          "q": "Did the update change any cheat codes?",
+          "a": "The notes list seven fixes and none of them mentions cheats. The 21 codes on this site still matched other outlets when re-checked on 24 November 2026."
+        }
+      ],
+      "tool": "guides"
     }
   ]
 }

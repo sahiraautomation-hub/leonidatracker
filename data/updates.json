@@ -1,6 +1,16 @@
 {
   "updates": [
     {
+      "date": "2026-11-24",
+      "title": "New guide: GTA 6 patch notes and update tracker",
+      "text": "Added a page that tracks every GTA 6 update. It starts with update 01.002.002 from 23 November 2026 and the seven fixes in the notes, including autosave, weather and wanted level bugs."
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Cheat codes re-checked: still 21 of 61",
+      "text": "All 21 listed codes were re-checked against more than ten outlets and still match. One outlet prints the Cataclysm sequence for Videotape as well, which looks like a copying slip, and several others agree on the Videotape code shown here. No new code met the two-source rule today. One site now lists inputs for the other 40 cheats, but no second independent source shows the same sequences, so they stay marked as not found."
+    },
+    {
       "date": "2026-11-23",
       "title": "Three new cheat codes: Drunk, Videotape and Dark Mirror",
       "text": "Added the D-pad codes for Drunk, Videotape and Dark Mirror after several independent sources showed identical sequences. That brings the total to 21 of 61. The 18 earlier codes were re-checked the same day. One wiki lists different inputs for three of them, but at least seven other sources match the codes shown here, so they stay as listed."

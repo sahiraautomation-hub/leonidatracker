@@ -5,6 +5,8 @@ Topics not yet on the site. Pick from the top when nothing more urgent (a newly 
 ## Cheat codes still unconfirmed (40)
 Check every run. A code is added only when two or more independent sources show the same sequence. Set `"code"` in `data/cheats.json`; the cheat page is generated automatically.
 
+Note (2026-11-24): GTABase now lists D-pad inputs for all 61 cheats. No second independent source showed the other 40 on that date (GamesRadar, PC Gamer, Pure Xbox and others still mark them unknown), so none were added. Compare against GTABase when a second source appears.
+
 ## Guides to write (only when facts are confirmed by 2+ sources)
 - GTA 6 Chapter 3 missions list (26 main missions; do not print the chapter's crude title)
 - GTA 6 Chapter 4 missions list (25)
@@ -31,6 +33,5 @@ Check every run. A code is added only when two or more independent sources show 
 - GTA 6 arcade games (Stick Fiddler trophy)
 - GTA 6 clothing and outfits
 - GTA 6 pets
-- GTA 6 patch notes / update tracker (when Rockstar ships a patch)
 - GTA 6 Online: what is confirmed
 - GTA 6 PC release: what is confirmed
