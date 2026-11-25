@@ -6,7 +6,7 @@ Unofficial fan resource for Grand Theft Auto VI. Cheat codes are listed only aft
 
 ## Tools
 - [100% Tracker](https://theleonidatracker.com/tracker/): checklist and counters for missions, collectibles and cheat challenges
-- [Cheats Database](https://theleonidatracker.com/cheats/): all 61 cheats, 21 verified codes, unlock requirements
+- [Cheats Database](https://theleonidatracker.com/cheats/): all 61 cheats, 23 verified codes, unlock requirements
 - [Calculators](https://theleonidatracker.com/calculators/): cheat unlock planner, 100% gap check, play-time estimator
 
 ## Guides
@@ -16,7 +16,7 @@ Unofficial fan resource for Grand Theft Auto VI. Cheat codes are listed only aft
 - [All 61 GTA 6 Cheats: Full List and Unlocks](https://theleonidatracker.com/guides/gta-6-all-cheats-list/): Every GTA 6 cheat in one table: 61 cheats with D-pad codes where found, effects, categories and the challenge that unlocks each one.
 - [GTA 6 Ammo Cheats: Max, Infinite and No Reload](https://theleonidatracker.com/guides/gta-6-ammo-cheats/): GTA 6 Max Ammo, Infinite Ammo and No Reload cheat codes, the shooting-range medals that unlock them, and a medal plan that earns all three.
 - [GTA 6 Vehicle Spawn Cheats: All 21 and Unlocks](https://theleonidatracker.com/guides/gta-6-vehicle-spawn-cheats/): All 21 GTA 6 vehicle spawn cheats, from the Boomazoom to the Rhino Tank, with known codes and the challenge track that unlocks each one.
-- [GTA 6 Screen Filter Cheats: All 16 Filters](https://theleonidatracker.com/guides/gta-6-screen-filter-cheats/): All 16 GTA 6 screen filter cheats: the five known codes, from Cataclysm to Dark Mirror, plus the challenges behind Golden Hour, Fisheye and more.
+- [GTA 6 Screen Filter Cheats: All 16 Filters](https://theleonidatracker.com/guides/gta-6-screen-filter-cheats/): All 16 GTA 6 screen filter cheats: the six known codes, from Pinhole to Faded Glory, plus the challenges behind Golden Hour, Fisheye and more.
 - [GTA 6 Wanted Level and Heat Cheats Explained](https://theleonidatracker.com/guides/gta-6-wanted-level-cheats/): The GTA 6 Raise Wanted Level and Raise Heat Level cheat codes, the escape challenge that unlocks both, and how to tell the two codes apart.
 - [GTA 6 Body Armor Cheat Code and Unlock](https://theleonidatracker.com/guides/gta-6-body-armor-cheat/): The GTA 6 Body Armor cheat code, the 100-workout challenge that unlocks it, and tips for entering a code with five repeated presses.
 - [GTA 6 Cheats for PS5: Codes and Controls](https://theleonidatracker.com/guides/gta-6-cheats-ps5/): GTA 6 cheat codes for PS5 with DualSense controls: the L1 and R1 input, every found code as D-pad arrows, and PS5 trophy rules for cheats.
@@ -44,7 +44,7 @@ Unofficial fan resource for Grand Theft Auto VI. Cheat codes are listed only aft
 - [Easiest GTA 6 Cheats to Unlock First](https://theleonidatracker.com/guides/gta-6-easiest-cheats-to-unlock/): Which GTA 6 cheats unlock fastest? The four story cheats, single-discovery unlocks and the smallest challenge targets, ranked for a quick start.
 - [Best Order to Unlock GTA 6 Cheats (Overlap Plan)](https://theleonidatracker.com/guides/gta-6-cheat-unlock-order/): A step-by-step order for unlocking GTA 6 cheats that uses shared counters, so one grind pays out two or three cheats at a time.
 - [GTA 6 Challenges Explained: All 8 Tracks and Rewards](https://theleonidatracker.com/guides/gta-6-challenges-explained/): GTA 6's eight challenge tracks and the two vehicle spawn cheats each one unlocks, from the Tuff BMX to the Rhino Tank and P-996 Lazer.
-- [How to Memorise GTA 6 Cheat Codes: The Patterns](https://theleonidatracker.com/guides/gta-6-cheat-code-patterns/): GTA 6 cheat codes follow patterns. Learn four shared openers and a few shapes, and you can remember all 21 known codes without a list.
+- [How to Memorise GTA 6 Cheat Codes: The Patterns](https://theleonidatracker.com/guides/gta-6-cheat-code-patterns/): GTA 6 cheat codes follow patterns. Learn four shared openers and a few shapes, and you can remember all 23 known codes without a list.
 - [GTA 6 vs GTA 5 Cheats: What Changed](https://theleonidatracker.com/guides/gta-6-vs-gta-5-cheats/): How GTA 6 cheats differ from GTA 5: unlock challenges instead of free codes, D-pad-only inputs through the phone, and what stayed the same.
 - [Best Way to Make Money in GTA 6: Fastest Method by Chapter](https://theleonidatracker.com/guides/gta-6-make-money-fast/): The fastest money in GTA 6 at each stage: treasure dives, selling cars to Moses in Chapter 2, jewelry stores, Randy's Wish List and bank vaults.
 - [How to Sell Cars in GTA 6: Moses, Pay 'n' Spray and Randy](https://theleonidatracker.com/guides/gta-6-sell-cars/): Where to sell stolen cars in GTA 6: Moses in Chapter 2, Pay 'n' Spray in Chapter 3 and Randy's Wish List, with tracker rules and reported prices.
@@ -56,6 +56,7 @@ Unofficial fan resource for Grand Theft Auto VI. Cheat codes are listed only aft
 - [How to Keep Cars in GTA 6: Swap Plates and Register Them](https://theleonidatracker.com/guides/gta-6-keep-cars-register/): Stolen cars vanish in GTA 6 unless you register them. Swap the plates at Moses from Chapter 2 or Pay 'n' Spray from Chapter 3, then call them with Scooter Bros.
 - [GTA 6 Garages: All 8 Locations and Prices](https://theleonidatracker.com/guides/gta-6-garages/): All 8 garages you can buy in GTA 6 with prices from $4,000 to $40,000, how to unlock the Vice City Real Estate app, and the Little Boxes trophy.
 - [GTA 6 Randy's Wish List: Unlock, Key Cloner and $30K+ Per Car](https://theleonidatracker.com/guides/gta-6-randys-wish-list/): Randy's Wish List opens midway through Chapter 3 of GTA 6. Get the Key Cloner, deliver high-end cars undamaged and earn a reported $30,000+ each.
+- [GTA 6 Randy's Cars: All 20 Wish List Cars and Locations](https://theleonidatracker.com/guides/gta-6-randys-wish-list-cars/): The 20 cars Randy wants in GTA 6 and where guides agree you can find each one, from Capri driveways to Starfish Island garages, with notes where sources differ.
 - [Best Weapons in GTA 6: Top Guns by Class and Price](https://theleonidatracker.com/guides/gta-6-best-weapons/): The best guns in GTA 6 by class, with prices and stats: Duke 556, Girardi ES9, Fairview FF-50 and more, plus what to buy first.
 - [GTA 6 Gun Shops: Best Stores, Unlocks and Keeping Your Guns](https://theleonidatracker.com/guides/gta-6-gun-shops/): Where to buy guns in GTA 6, which shops stock what, how more weapons unlock, and why only guns you buy come back after you die or get busted.
 - [GTA 6 Wanted Level and Heat: How to Lose the Police](https://theleonidatracker.com/guides/gta-6-wanted-level-heat/): GTA 6 has six wanted stars and a Heat system that tracks your outfit, car, weapon and partner. What each star colour means and how to lose the cops.
@@ -85,7 +86,9 @@ Unofficial fan resource for Grand Theft Auto VI. Cheat codes are listed only aft
 - [Maibatsu Boomazoom](https://theleonidatracker.com/cheats/maibatsu-boomazoom/): Left, Up, Right, Down, Left, Left, Up, Left. Unlock: Complete five shopping challenges.
 - [MTL Pumper](https://theleonidatracker.com/cheats/mtl-pumper/): Left, Up, Right, Down, Left, Right, Right, Up. Unlock: Discover the MTL Pumper in the Progress menu.
 - [HVY Bulldozer](https://theleonidatracker.com/cheats/hvy-bulldozer/): Left, Up, Right, Down, Left, Right, Right, Down. Unlock: Discover the HVY Bulldozer in the Progress menu.
-- [Cycle Weather](https://theleonidatracker.com/cheats/cycle-weather/): Down, Right, Up, Down, Right, Up, Right. Unlock: Finish the main story.
+- [Cycle Weather](https://theleonidatracker.com/cheats/cycle-weather/): Down, Right, Up, Down, Right, Up, Right. Unlock: Finish the main story. A few guides say you must reveal the whole map instead, so sources differ.
+- [Move Time Forward](https://theleonidatracker.com/cheats/move-time-forward/): Down, Right, Up, Down, Right, Up, Up. Unlock: Find 10 collectible watches.
+- [Pinhole](https://theleonidatracker.com/cheats/pinhole/): Down, Down, Up, Right, Right, Up, Left, Left, Up, Down. Unlock: Clear 25 gang operations with your partner.
 - [Cataclysm](https://theleonidatracker.com/cheats/cataclysm/): Down, Down, Up, Right, Right, Up, Left, Left, Right, Right. Unlock: Discover Martha's Vamos in the Progress menu.
 - [Videotape](https://theleonidatracker.com/cheats/videotape/): Down, Down, Up, Right, Right, Up, Left, Left, Right, Down. Unlock: Complete 50 activities with your partner.
 - [Dark Mirror](https://theleonidatracker.com/cheats/dark-mirror/): Down, Down, Up, Right, Right, Up, Left, Left, Right, Left. Unlock: Earn $500,000 in total by selling vehicles.
