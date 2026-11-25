@@ -1,5 +1,5 @@
 {
-  "lastVerified": "2026-11-24",
+  "lastVerified": "2026-11-25",
   "totalInGame": 61,
   "entry": {
     "openPhone": "Press Up on the D-pad during gameplay to bring out the phone.",
@@ -65,13 +65,13 @@
     { "id": "truffade-thrax", "name": "Truffade Thrax", "category": "vehicle", "effect": "Spawns a Truffade Thrax.", "code": null, "unlock": "Complete every shopping challenge.", "tip": "The Boomazoom unlocks after five shopping challenges." },
     { "id": "western-zombie-bobber", "name": "Western Zombie Bobber", "category": "vehicle", "effect": "Spawns a Western Zombie Bobber.", "code": null, "unlock": "Complete every criminal challenge.", "tip": "The Maibatsu Sanchez arrives first at five." },
 
-    { "id": "cycle-weather", "name": "Cycle Weather", "category": "environment", "effect": "Cycles through weather conditions.", "code": ["D","R","U","D","R","U","R"], "unlock": "Finish the main story.", "unlockCheck": "story-complete", "tip": "Enter it repeatedly to step through conditions until you reach the one you want." },
-    { "id": "move-time-forward", "name": "Move Time Forward", "category": "environment", "effect": "Moves the time of day forward.", "code": null, "unlock": "Find 10 collectible watches.", "unlockCounter": "col-watches", "unlockTarget": 10, "tip": "The same watch counter unlocks Pause Time of Day at 20." },
+    { "id": "cycle-weather", "name": "Cycle Weather", "category": "environment", "effect": "Cycles through weather conditions.", "code": ["D","R","U","D","R","U","R"], "unlock": "Finish the main story. A few guides say you must reveal the whole map instead, so sources differ.", "unlockCheck": "story-complete", "tip": "Enter it repeatedly to step through conditions until you reach the one you want." },
+    { "id": "move-time-forward", "name": "Move Time Forward", "category": "environment", "effect": "Moves the time of day forward.", "code": ["D","R","U","D","R","U","U"], "unlock": "Find 10 collectible watches.", "unlockCounter": "col-watches", "unlockTarget": 10, "tip": "Same as Cycle Weather until the last press, which is Up here. The watch counter also unlocks Pause Time of Day at 20." },
     { "id": "pause-time", "name": "Pause Time of Day", "category": "environment", "effect": "Freezes the time of day.", "code": null, "unlock": "Find 20 collectible watches.", "unlockCounter": "col-watches", "unlockTarget": 20, "tip": "Combine with Cycle Weather for screenshots in exactly the light you want." },
 
     { "id": "golden-hour", "name": "Golden Hour", "category": "filter", "effect": "Applies the Golden Hour screen filter.", "code": null, "unlock": "Spend four hours in total holding hands with your partner.", "unlockCounter": "ch-holding-hands-hours", "unlockTarget": 4, "tip": "Time accumulates across sessions, so walk hand in hand between nearby objectives." },
     { "id": "powdered-sugar", "name": "Powdered Sugar", "category": "filter", "effect": "Applies the Powdered Sugar screen filter.", "code": null, "unlock": "Scan all space debris with the WAiNK app.", "tip": "Keep WAiNK open while flying or driving through open country." },
-    { "id": "pinhole", "name": "Pinhole", "category": "filter", "effect": "Applies the Pinhole screen filter.", "code": null, "unlock": "Clear 25 gang operations with your partner.", "unlockCounter": "ch-partner-gang-ops", "unlockTarget": 25, "tip": "Operations cleared solo do not count. Bring your partner." },
+    { "id": "pinhole", "name": "Pinhole", "category": "filter", "effect": "Applies the Pinhole screen filter.", "code": ["D","D","U","R","R","U","L","L","U","D"], "unlock": "Clear 25 gang operations with your partner.", "unlockCounter": "ch-partner-gang-ops", "unlockTarget": 25, "tip": "Ends Up, Down. Operations cleared solo do not count, so bring your partner." },
     { "id": "neon-jungle", "name": "Neon Jungle", "category": "filter", "effect": "Applies the Neon Jungle screen filter.", "code": null, "unlock": "Discover all 16 Girlypop Vehicles.", "unlockCounter": "col-girlypop", "unlockTarget": 16, "tip": "Log each Girlypop find the moment you spot it." },
     { "id": "yesteryear", "name": "Yesteryear", "category": "filter", "effect": "Applies the Yesteryear screen filter.", "code": null, "unlock": "Discover the Ridgeway.", "tip": "A single-discovery unlock, so it often arrives by accident during exploration." },
     { "id": "cataclysm", "name": "Cataclysm", "category": "filter", "effect": "Fills the world with murky smoke.", "code": ["D","D","U","R","R","U","L","L","R","R"], "unlock": "Discover Martha's Vamos in the Progress menu.", "tip": "Filter codes start Down, Down, Up, Right, Right, Up, Left, Left. Only the last two inputs change." },
