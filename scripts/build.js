@@ -336,7 +336,7 @@ function buildHome() {
   const faqs = [
     { q: 'Is LeonidaTracker free?', a: 'Yes. Every tool and guide is free. Progress is stored in your own browser, so there is no sign-up.' },
     { q: 'Will my progress be lost if I clear my browser?', a: 'Clearing site data removes it. Use **Export save** on the [Tracker](/tracker/) to keep a backup code you can paste back in any time, on any device.' },
-    { q: 'How accurate are the cheat codes?', a: `Only codes confirmed by multiple independent launch-week reports are listed. ${knownCount} of ${CH.totalInGame} have been found so far, and the rest show their unlock challenge until the code is confirmed.` },
+    { q: 'How accurate are the cheat codes?', a: knownCount === CH.totalInGame ? `All ${CH.totalInGame} codes are listed. A code is added only when at least two separate sources print the identical sequence, and the list is re-checked on every update.` : `Only codes confirmed by multiple independent launch-week reports are listed. ${knownCount} of ${CH.totalInGame} have been found so far, and the rest show their unlock challenge until the code is confirmed.` },
     { q: 'Is this site official?', a: 'No. LeonidaTracker is an unofficial fan project and is not affiliated with Rockstar Games or Take-Two Interactive.' }
   ];
   const faq = faqBlock(faqs);
@@ -554,7 +554,7 @@ function buildCheats() {
   <div class="page-head">
     ${bc.html}
     <h1>GTA 6 Cheats for PS5 and Xbox Series X|S</h1>
-    <p class="lead">All ${CH.totalInGame} cheats in GTA 6, grouped by type. ${knownCount} codes are verified so far, and every cheat lists the challenge that unlocks it. Switch platform to see the right shoulder buttons. Last verified ${esc(CH.lastVerified)}.</p>
+    <p class="lead">All ${CH.totalInGame} cheats in GTA 6, grouped by type. ${knownCount === CH.totalInGame ? `All ${knownCount} codes are listed` : `${knownCount} codes are verified so far`}, and every cheat lists the challenge that unlocks it. Switch platform to see the right shoulder buttons. Last verified ${esc(CH.lastVerified)}.</p>
   </div>
   <div class="grid grid-2">
     <div class="card">

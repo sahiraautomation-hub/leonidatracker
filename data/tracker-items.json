@@ -1,5 +1,5 @@
 {
-  "lastVerified": "2026-11-22",
+  "lastVerified": "2026-11-28",
   "completionRequirements": [
     {
       "label": "Finish the main story",
@@ -31,7 +31,7 @@
       "label": "Cocaine Flamingos destroyed",
       "counter": "col-cocaine-flamingos",
       "need": 100,
-      "note": "100 of 125. Community-reported, not yet confirmed by Rockstar."
+      "note": "100 of 125. Reported by several guides, not confirmed by Rockstar."
     }
   ],
   "categories": [
@@ -108,7 +108,7 @@
       "type": "check",
       "name": "Just a Scratch",
       "chapter": "Chapter 1: Just Like Paradise",
-      "note": "Unlocks the Brian's Lockup drop-off.",
+      "note": "Jason's car gets a free repair and respray.",
       "spoiler": true
     },
     {
@@ -117,6 +117,7 @@
       "type": "check",
       "name": "Lab Fees",
       "chapter": "Chapter 1: Just Like Paradise",
+      "note": "Introduces the Brian's Lockup drop-off.",
       "spoiler": true
     },
     {
@@ -1119,7 +1120,7 @@
       "type": "check",
       "name": "Positive Mental Attitude",
       "chapter": "Bronze",
-      "note": "Meditate at every spot. One spot may be Chapter 1 only.",
+      "note": "Meditate at every spot. Guides report the Chapter 1 balcony meditation is not required.",
       "spoiler": false
     },
     {
