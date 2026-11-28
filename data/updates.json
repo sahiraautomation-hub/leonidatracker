@@ -2,6 +2,21 @@
   "updates": [
     {
       "date": "2026-11-28",
+      "title": "New guide: all 10 meditation spots",
+      "text": "Added a guide to the 10 meditation spots and how they add up to 18 meditations. Each location is supported by at least two guides, and counties are left out where guides give different ones. The page also says where guides differ on the Chapter 1 lesson, and that three guides report 15 of the 18 are enough for 100%."
+    },
+    {
+      "date": "2026-11-28",
+      "title": "New guide: GTA 6 characters, without spoilers",
+      "text": "Added a guide to who is who in GTA 6: Jason and Lucia, Brian's circle in the Keys, the Chapter 2 cast and the Vice City names Rockstar introduced before launch. It stops at introductions and leaves out later chapters, villains and voice actors."
+    },
+    {
+      "date": "2026-11-28",
+      "title": "Cheat codes re-checked: all 61 still match",
+      "text": "All 61 listed codes were read again against a major gaming outlet and a GTA database, and every sequence still matches. Three large sites that list only some of the codes were checked too, and none of them prints a different sequence for a code they do show. One wiki appears to show an extra press on three codes, as it did on earlier checks, so those stay as listed. Patch notes were re-checked the same day: update 01.002.002 from 23 November is still the latest."
+    },
+    {
+      "date": "2026-11-28",
       "title": "All 61 cheat codes now listed: 34 added",
       "text": "Added the D-pad codes for the last 34 cheats, including every remaining vehicle spawn, nine screen filters, Parachute, Repair Vehicle and Pause Time of Day. A major gaming outlet and two GTA databases now print identical sequences for all 34. None of them says how the codes were obtained, and several large sites still list them as unknown, so they will be re-checked on every update. The 27 earlier codes were re-checked the same day and still match. Guides that described codes as missing have been updated."
     },

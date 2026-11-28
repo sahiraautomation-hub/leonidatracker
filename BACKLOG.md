@@ -9,11 +9,13 @@ Note (2026-11-28): the last 34 codes were added on this date. GamesRadar (update
 
 Each run: re-read GamesRadar and GTA BOOM first. If PowerPyx, PC Gamer or another outlet that tests codes prints a DIFFERENT sequence for any cheat, set that cheat's `code` back to `null`, log a "Correction:" entry and say that sources differ. Known slips elsewhere: Dexerto appeared to print an extra press on Cycle Weather and Raise Wanted Level (read from a cut-off fetch, so check it), and iGeeksBlog prints a different Vehicle Force and gives Pause Time of Day the Cycle Weather code. Reading tip: the GTABase page is long and automated fetches cut off before the later spawns, time cheats and filters.
 
+Re-check (second run on 2026-11-28): GamesRadar (updated 27 November) and GTA BOOM (updated 26 November) were read in full and all 61 sequences still match. PowerPyx (17 codes, last modified 19 November), PC Gamer (21 codes, updated 23 November) and TrueAchievements (19 codes) still mark the rest as unknown, and none of them differs on a code it does print. The Dexerto fetch was cut off again: its summary showed an extra press on Cycle Weather and Raise Wanted Level and a different Unlimited Focus, which could not be checked against the page text.
+
 ## Priority: proven search demand (Search Console, 2026-11-24)
 People already search these and land on the site at positions 8 to 50. Do these before the general list below. The fact rules still apply: skip any line you cannot confirm with two sources, and never invent car names, locations or codes.
 
 New guides:
-- GTA 6 characters and cast, spoiler-light (searches: "gta 6 side characters", "randy gta 6").
+- (none waiting; the characters guide was published on 2026-11-28 as `gta-6-characters`. It names no voice actors, because CLAUDE.md allows nothing about real people beyond credited developers and publishers.)
 
 Add to existing guides (a new section or FAQ, not a new page):
 - `gta-6-how-to-save`: multiple save slots, whether there is a setting to turn autosave on, saving on Xbox (searches rank 17 to 28).
@@ -37,7 +39,6 @@ Add to existing guides (a new section or FAQ, not a new page):
 - GTA 6 drone races / Top Fun locations
 - GTA 6 races list (Earn Cash, Not Kudos trophy)
 - GTA 6 fishing guide (Cal, Baited My Tackle)
-- GTA 6 meditation spots (18)
 - GTA 6 hunting guide (Bret Vogel)
 - GTA 6 Snap Gun and Key Cloner: how to get both
 - GTA 6 WAiNK app explained
@@ -52,7 +53,7 @@ Add to existing guides (a new section or FAQ, not a new page):
 - GTA 6 PC release: what is confirmed
 
 ## Checks for a later run (added 2026-11-28)
-- 100% requirements: PowerPyx and GTABase list more categories than the Tracker has, including 50 of 66 standard weapons, 15 of 18 meditations and 70 of 79 discovered styles. Confirm the full list with two sources, then add the missing rows to `completionRequirements` and the 100% guide.
+- 100% requirements: PowerPyx and GTABase list more categories than the Tracker has, including 50 of 66 standard weapons, 15 of 18 meditations and 70 of 79 discovered styles. The meditation figure now has three sources (PowerPyx, Beebom, AllThings.How) and is stated as reported in `gta-6-meditation-spots`. Confirm the full list with two sources, then add the missing rows to `completionRequirements` and the 100% guide.
 - Randy's Wish List total: PowerPyx lists 16 cars and GTABase says the list starts with 15, against the 20 on the site. The cars guide now says sources differ. Settle it when a third detailed source appears, and re-check the `gta-6-randys-wish-list-cars` title then.
 - Mission totals: Dexerto, Red Bull and Push Square support 91 (22, 11, 26, 25, 7). GTABase numbers 109 and PowerPyx lists more. The mission guide now says counts differ.
-- Guide dates: every guide page shows the single `lastVerified` date from `data/keywords.json` (2026-11-22). It was not bumped, because not every guide was re-checked.
+- Guide dates: every guide page shows the single `lastVerified` date from `data/keywords.json` (2026-11-22). It was not bumped, because not every guide was re-checked. The two guides added on 2026-11-28 (`gta-6-meditation-spots`, `gta-6-characters`) therefore show 2026-11-22 as well. A per-guide date would need a small change to `scripts/build.js`, which is for Sahir to decide.

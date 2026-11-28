@@ -1790,7 +1790,8 @@
         {
           "h2": "Meditation",
           "p": [
-            "There are 18 meditations to complete in Leonida. The two most detailed guides count 10 locations, and most of them count twice because Jason and Lucia can each meditate there. Fast Forward needs 50 meditations in total, so you will repeat spots rather than find 50 different ones. Pick the spots closest to where you play most."
+            "There are 18 meditations to complete in Leonida. The two most detailed guides count 10 locations, and most of them count twice because Jason and Lucia can each meditate there. Fast Forward needs 50 meditations in total, so you will repeat spots rather than find 50 different ones. Pick the spots closest to where you play most.",
+            "The [meditation spots guide](/guides/gta-6-meditation-spots/) lists all 10 locations."
           ]
         },
         {
@@ -4615,7 +4616,8 @@
         {
           "h2": "Tracking them",
           "p": [
-            "Billy's five missions are in the [Tracker](/tracker/) as an optional group, with names blurred until you tap them. For the trophies each strand feeds, see the [trophy list](/guides/gta-6-trophy-list/)."
+            "Billy's five missions are in the [Tracker](/tracker/) as an optional group, with names blurred until you tap them. For the trophies each strand feeds, see the [trophy list](/guides/gta-6-trophy-list/).",
+            "For the main cast, see the [characters guide](/guides/gta-6-characters/)."
           ]
         }
       ],
@@ -5180,6 +5182,370 @@
         {
           "q": "Did the update change any cheat codes?",
           "a": "The notes list seven fixes and none of them mentions cheats. The 21 codes listed before the patch still matched other outlets when re-checked on 28 November 2026."
+        }
+      ],
+      "tool": "guides"
+    },
+    {
+      "slug": "gta-6-meditation-spots",
+      "category": "Collectibles",
+      "keyword": "gta 6 meditation spots",
+      "title": "GTA 6 Meditation Spots: All 10 Locations and 18 Meditations",
+      "description": "All 10 GTA 6 meditation spots and how they make 18 meditations: where each one is, when the last one appears and what you get for finishing them.",
+      "h1": "GTA 6 Meditation Spots: All 10 Locations",
+      "intro": "**Quick answer:** GTA 6 has 10 meditation spots that add up to 18 meditations. One is a lesson at Jason's house in Chapter 1. Eight are out in the open world and count once each for Jason and Lucia. The last one is on top of Mount Kalaga and only appears when the rest are done. Guides report that 15 of the 18 are enough for 100% completion. Nothing on this page spoils the story.",
+      "sections": [
+        {
+          "h2": "How the 18 meditations add up",
+          "p": [
+            "Guides that list every spot agree on 10 locations. The first is a lesson with Lucia at Jason's house, and it counts once. The next eight are open-world spots. Each of those counts twice, once when Jason meditates there and once when Lucia does. The tenth, called Ascent, counts once. That gives 1 + 16 + 1 = 18.",
+            "One guide numbers them as 18 spots instead of 10 places. It describes the same locations in the same order, so the two ways of counting match."
+          ],
+          "table": {
+            "caption": "How the 18 meditations are counted",
+            "headers": [
+              "Spot",
+              "Meditations counted"
+            ],
+            "rows": [
+              [
+                "Jason's house, Chapter 1 lesson",
+                "1"
+              ],
+              [
+                "Eight open-world spots, Jason and Lucia once each",
+                "16"
+              ],
+              [
+                "Ascent, the final spot",
+                "1"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Learning to meditate in Chapter 1",
+          "p": [
+            "Meditation opens in Chapter 1. After the mission Down to Earth, Lucia says she is going to meditate at Jason's house. Guides say to aim at her with L2 on PS5 or LT on Xbox and choose Accept to join her. Finishing the lesson counts as your first meditation.",
+            "The lesson is only on offer during Chapter 1, and guides differ on what happens if you skip it. One early trophy guide says the trophy is then out of reach. A more detailed guide reports that the lesson is not needed for the trophy or for 100%, and that a replacement lesson is marked on the map from Chapter 2 for players who missed it. The safe choice is to do it in Chapter 1. The [Chapter 1 checklist](/guides/gta-6-chapter-1-checklist/) lists everything else that closes with the chapter."
+          ]
+        },
+        {
+          "h2": "All 10 meditation spots",
+          "p": [
+            "The names are the ones guides use for each spot. Each place in the table is supported by at least two guides. The county is left out where guides give different ones.",
+            "One guide warns that the Waterfall spot is on a rock in the river and is awkward to reach on foot. It recommends a helicopter for that spot, for the sandbar and for the mountain top."
+          ],
+          "table": {
+            "caption": "GTA 6 meditation spots and where to find them",
+            "headers": [
+              "No.",
+              "Spot",
+              "Where it is",
+              "Meditations"
+            ],
+            "rows": [
+              [
+                "1",
+                "Jason's house",
+                "Jason's house in the Keys, during Chapter 1",
+                "1"
+              ],
+              [
+                "2",
+                "Smooth Sand",
+                "A small sandbar just off the west coast of Capri, Mariana County",
+                "2"
+              ],
+              [
+                "3",
+                "Swamp",
+                "The wooden dock beside a lookout tower in Buckskin Swamp, Kelly County",
+                "2"
+              ],
+              [
+                "4",
+                "Worn Stone",
+                "The bank of the Emerald River at Camp Moonflower, Kelly County",
+                "2"
+              ],
+              [
+                "5",
+                "Red Rocks",
+                "Manifest Canyon, close to where the railway crosses the highway",
+                "2"
+              ],
+              [
+                "6",
+                "Water Wheel",
+                "By the water wheel of a ruined paper mill in south Moreau, Lummox County",
+                "2"
+              ],
+              [
+                "7",
+                "Jutting Cliff",
+                "A cliff near a tower and a mine in Mount Kalaga National Park, Lummox County",
+                "2"
+              ],
+              [
+                "8",
+                "Waterfall",
+                "Beside a waterfall on a river north-west of Tallaloko, Lummox County",
+                "2"
+              ],
+              [
+                "9",
+                "Seaside",
+                "Rocks on the beach by Waning Sands, on the east coast",
+                "2"
+              ],
+              [
+                "10",
+                "Ascent",
+                "The summit of Mount Kalaga, Lummox County. Hidden until the others are done",
+                "1"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "How to find spots on the map",
+          "p": [
+            "You do not need to memorise the table. Guides report that a spot shows up as a purple icon on the map once you are close to it, and that the Exploration filter on the map has an entry called Meditate Around Leonida. Your running total is under Progress, then Collections, Exploration and Meditations. The [Progress menu guide](/guides/gta-6-progress-menu/) explains the other cards.",
+            "Each open-world spot has to be visited by both characters to earn both of its meditations. The full run is easiest once you can [switch between Jason and Lucia](/guides/gta-6-fast-travel-switch-characters/), which opens in Chapter 2. One trophy guide suggests waiting until Chapter 3, when more of the map is easy to reach."
+          ]
+        },
+        {
+          "h2": "Ascent: the last spot",
+          "p": [
+            "Every guide agrees on Ascent. It is on the summit of Mount Kalaga in Lummox County, and it does not appear on the map until the other meditations are finished. One guide adds that it takes a short while to show up after the last of them, so do not worry if the icon is not there at once. Finishing Ascent completes the set."
+          ]
+        },
+        {
+          "h2": "What meditating gets you",
+          "list": [
+            "**Positive Mental Attitude.** A Bronze trophy for meditating at every spot in Leonida. See the [trophy list](/guides/gta-6-trophy-list/).",
+            "**100% completion.** Three guides report that 15 of the 18 meditations are enough. See the [100% checklist](/guides/gta-6-100-percent-completion/).",
+            "**Fast Forward.** The [Fast Forward](/cheats/fast-forward/) filter cheat unlocks after 50 meditations. Repeats count, so you will go back to spots you have already used. The [fishing and meditation guide](/guides/gta-6-fishing-meditation-cheats/) covers the pacing.",
+            "**Focus.** Meditation is one of the activities that raises the [Focus stat](/guides/gta-6-strength-cardio-focus/)."
+          ],
+          "p": [
+            "Tick spots off in the [Tracker](/tracker/) as you go. It has one counter for meditation spots and another for total meditations."
+          ]
+        }
+      ],
+      "data": {
+        "type": "counters",
+        "filter": {
+          "ids": [
+            "col-meditation-spots",
+            "ch-meditations"
+          ]
+        },
+        "caption": "Meditation counters"
+      },
+      "faqs": [
+        {
+          "q": "How many meditation spots are in GTA 6?",
+          "a": "10 locations that add up to 18 meditations. Eight of the locations count twice, once for Jason and once for Lucia."
+        },
+        {
+          "q": "Where is the last meditation spot in GTA 6?",
+          "a": "On the summit of Mount Kalaga in Lummox County. It is called Ascent, and it only appears once the other meditations are done."
+        },
+        {
+          "q": "Can you miss a meditation spot in GTA 6?",
+          "a": "Only the Chapter 1 lesson at Jason's house can be missed. Recent guides report that it is not needed for the trophy or for 100%, but one early guide says it is, so do it if you can."
+        },
+        {
+          "q": "Do you need all 18 meditations for 100%?",
+          "a": "Guides report that 15 of the 18 are enough for 100% completion. The Positive Mental Attitude trophy asks for every spot."
+        }
+      ],
+      "tool": "tracker"
+    },
+    {
+      "slug": "gta-6-characters",
+      "category": "Basics",
+      "keyword": "gta 6 characters",
+      "title": "GTA 6 Characters: Jason, Lucia and the Main Cast (No Spoilers)",
+      "description": "Who is who in GTA 6 without story spoilers: Jason and Lucia, Brian and the Keys crew, Moses, Boobie Ike, Dre'Quan, Real Dimez, Raul and Randy.",
+      "h1": "GTA 6 Characters: Who Is Who in Leonida",
+      "intro": "**Quick answer:** you play as Jason Duval and Lucia Caminos, a couple trying to build a better life in the state of Leonida. Around them are Brian Heder and his crew in the Keys, a new set of faces in Chapter 2, and Vice City names such as Boobie Ike, Dre'Quan Priest, Real Dimez and Raul Bautista. This page says who each person is and where you meet them. It stops at introductions, so there are no twists, endings or late-game names here.",
+      "sections": [
+        {
+          "h2": "Jason and Lucia",
+          "p": [
+            "**Jason Duval** grew up around small-time crooks, spent time in the Army and ended up in the Leonida Keys working for local drug runners. When the story opens he lives in a house that belongs to his boss, Brian.",
+            "**Lucia Caminos** begins the story in prison, where she landed while trying to look after her family. Getting out is her fresh start, and she wants more from life than scraping by.",
+            "The two are partners in work and in life. Chapter 1 is reported to be mostly Jason's, and from Chapter 2 you can [switch between them](/guides/gta-6-fast-travel-switch-characters/). Each has separate [stats](/guides/gta-6-strength-cardio-focus/), and some side missions belong to only one of them."
+          ]
+        },
+        {
+          "h2": "Chapter 1: Brian's circle in the Keys",
+          "list": [
+            "**Brian Heder.** A veteran drug runner who moves his product through a boat yard in the Keys. He is Jason's landlord and gives him work.",
+            "**Lori Heder.** Brian's third wife, who runs the boat yard with him.",
+            "**Cal Hampton.** Jason's friend, who also works for Brian. He is the one to see about [fishing](/guides/gta-6-fishing-meditation-cheats/).",
+            "**Donnie.** A pilot who flies drops for Brian.",
+            "**Kenton Rees.** A treasure hunter who sends Jason diving on wrecks. His dives open after the mission Island Dreams.",
+            "**Andy.** Lucia's close friend, who has been keeping her clothes while she was away. Andy has a Lucia-only side strand later on.",
+            "**Mattia and Kat.** Kat shared a cell with Lucia, and Mattia is her wealthy boyfriend. They arrive with an offer of work.",
+            "**Joey.** The mechanic at Coastal Auto Care. He fixes Jason's car in the mission Just a Scratch and can bring it back to you during Chapter 1.",
+            "**Shirley Baker.** Jason's neighbour. Her two short errands are only available in Chapter 1, as the [Chapter 1 checklist](/guides/gta-6-chapter-1-checklist/) explains.",
+            "**Mandy.** One of Brian's tenants."
+          ]
+        },
+        {
+          "h2": "Chapter 2: new faces",
+          "p": [
+            "You meet all five in Chapter 2, while Jason and Lucia are living out of a motel."
+          ],
+          "list": [
+            "**Vicki.** A dancer who lives at the same motel.",
+            "**Dunk.** A local contact who helps Lucia get hold of painkillers.",
+            "**Moses \"Mo\" Watkins.** A mechanic in Port Gellhorn who buys stolen cars and makes it possible to register cars of your own. See [selling cars](/guides/gta-6-sell-cars/) and [the best cars to sell to Moses](/guides/gta-6-best-cars-to-sell-to-moses/).",
+            "**Billy.** Leads a dirt bike crew at the Thrillbilly Mud Club and has five optional missions.",
+            "**Bret Vogel.** A hunting contact for Jason. One character guide describes him as an old Army friend."
+          ]
+        },
+        {
+          "h2": "Chapter 3 onwards: the names Rockstar introduced",
+          "p": [
+            "Rockstar introduced all four on its own website before launch, so their set-up is not a spoiler. Guides place the move to Vice City in Chapter 3."
+          ],
+          "list": [
+            "**Boobie Ike.** A Vice City businessman with money in property, a strip club and a recording studio.",
+            "**Dre'Quan Priest.** A former dealer turned music executive. He runs the label Only Raw Records with Boobie.",
+            "**Real Dimez.** The rap duo Bae-Luxe and Roxy, old friends who are signed to Only Raw Records.",
+            "**Raul Bautista.** An experienced bank robber who is always looking for new people for bigger jobs."
+          ]
+        },
+        {
+          "h2": "Vice City: dealers, buyers and racers",
+          "list": [
+            "**Randy Kozlov.** A car dealer who buys stolen high-end cars. His list of wanted cars is covered in [Randy's Wish List](/guides/gta-6-randys-wish-list/) and [Randy's cars](/guides/gta-6-randys-wish-list-cars/).",
+            "**Tyrone Russo.** A dealer with a Jason-only side strand.",
+            "**Yago Jiménez.** A street racer who brings racing missions."
+          ],
+          "p": [
+            "Kirk, Kyle McKittrick, Pilot Pete and the other side characters have short optional strands of their own. [Strangers and Freaks](/guides/gta-6-strangers-and-freaks/) lists them, who can play each one and which trophies they feed."
+          ]
+        },
+        {
+          "h2": "What this page leaves out",
+          "p": [
+            "Characters who first appear in Chapters 4 and 5 are left out. So are the story's villains and any faces from earlier GTA games. With those, even a name gives something away.",
+            "This page also does not list voice actors. The full cast is on Rockstar's credits page, and one outlet's copy of that list is reported to run to about 200 named roles. If you want the story beats in order, the [Chapter 1](/guides/gta-6-chapter-1-missions/) and [Chapter 2](/guides/gta-6-chapter-2-missions/) mission lists are the place to start."
+          ]
+        }
+      ],
+      "data": {
+        "type": "table",
+        "caption": "GTA 6 main characters at a glance",
+        "headers": [
+          "Character",
+          "Who they are",
+          "Where you meet them"
+        ],
+        "rows": [
+          [
+            "Jason Duval",
+            "Playable lead",
+            "From the start"
+          ],
+          [
+            "Lucia Caminos",
+            "Playable lead",
+            "From the start"
+          ],
+          [
+            "Brian Heder",
+            "Jason's boss and landlord",
+            "The Keys, Chapter 1"
+          ],
+          [
+            "Lori Heder",
+            "Brian's wife and business partner",
+            "The Keys"
+          ],
+          [
+            "Cal Hampton",
+            "Jason's friend, works for Brian",
+            "The Keys, Chapter 1"
+          ],
+          [
+            "Donnie",
+            "Pilot for Brian",
+            "The Keys, Chapter 1"
+          ],
+          [
+            "Kenton Rees",
+            "Treasure hunter",
+            "The Keys, Chapter 1"
+          ],
+          [
+            "Andy",
+            "Lucia's friend",
+            "Chapter 1"
+          ],
+          [
+            "Vicki",
+            "Neighbour at the motel",
+            "Chapter 2"
+          ],
+          [
+            "Moses \"Mo\" Watkins",
+            "Mechanic and car buyer",
+            "Port Gellhorn, Chapter 2"
+          ],
+          [
+            "Boobie Ike",
+            "Businessman",
+            "Vice City"
+          ],
+          [
+            "Dre'Quan Priest",
+            "Music executive",
+            "Vice City"
+          ],
+          [
+            "Real Dimez",
+            "Rap duo",
+            "Vice City"
+          ],
+          [
+            "Raul Bautista",
+            "Bank robber",
+            "Chapter 3"
+          ],
+          [
+            "Randy Kozlov",
+            "Car dealer",
+            "Vice City, Chapter 3"
+          ]
+        ]
+      },
+      "faqs": [
+        {
+          "q": "Who are the main characters in GTA 6?",
+          "a": "Jason Duval and Lucia Caminos. Both are playable, and you can switch between them from Chapter 2."
+        },
+        {
+          "q": "Who is Randy in GTA 6?",
+          "a": "Randy Kozlov is a Vice City car dealer who buys stolen high-end cars. His Wish List opens in Chapter 3."
+        },
+        {
+          "q": "Who is Brian in GTA 6?",
+          "a": "Brian Heder is a long-time drug runner in the Keys. He is Jason's landlord and gives him work in Chapter 1."
+        },
+        {
+          "q": "Who are Real Dimez in GTA 6?",
+          "a": "A rap duo, Bae-Luxe and Roxy, signed to Only Raw Records in Vice City."
+        },
+        {
+          "q": "Does this page have spoilers?",
+          "a": "No. It covers who each character is when you first meet them and leaves out the later chapters."
         }
       ],
       "tool": "guides"
